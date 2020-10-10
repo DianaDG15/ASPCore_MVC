@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\diave\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\diave\\.nuget\\packages"
+    ]
+  }
+}
